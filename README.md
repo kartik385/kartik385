@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">I own a Laptop.</h3>
+<h3 align="center">I own a Gaming PC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik385&label=Profile%20views&color=0e75b6&style=flat" alt="kartik385" /> </p>
 
